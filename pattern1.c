@@ -1,3 +1,10 @@
+// to create a pattern:
+*
+**
+***
+****
+*****
+
 #include<stdio.h>
 #include<conio.h>
 void main()
